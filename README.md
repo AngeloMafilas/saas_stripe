@@ -2,17 +2,15 @@
 
 ![Demo App](/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/_YCC9Osq6y4)
-
 About This Course:
 
--   ✨One time payments
--   🚀 Subscriptions (Monthly & Yearly)
--   💰 Billing Portal for Customers
--   🔒 Authentication & Webhooks
--   ✉ Sending Emails
--   🔥 Deployment
--   🎉And much more...
+- ✨One time payments
+- 🚀 Subscriptions (Monthly & Yearly)
+- 💰 Billing Portal for Customers
+- 🔒 Authentication & Webhooks
+- ✉ Sending Emails
+- 🔥 Deployment
+- 🎉And much more...
 
 ### Setup .env file
 
