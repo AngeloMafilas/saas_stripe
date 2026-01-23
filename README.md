@@ -1,4 +1,4 @@
-# 💬 MERN Stack Real-Time Chat Application
+# 💬 MERN SaaS App ~ Course
 
 <div align="center">
 
